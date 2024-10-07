@@ -47,6 +47,8 @@ Free Cloud account имеет ограничения:
 
 ![изображение](https://github.com/stepynin-georgy/hw_mon_4/blob/main/img/Screenshot_111.png)
 
+![изображение](https://github.com/stepynin-georgy/hw_mon_4/blob/main/img/Screenshot_113.png)
+
 6. Дополнительно поэкспериментируйте с правилами алёртинга. Выбирайте разные условия отправки и создавайте sample events. 
 
 ## Задание повышенной сложности
